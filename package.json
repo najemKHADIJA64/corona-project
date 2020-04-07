@@ -1,0 +1,12 @@
+{
+    "name": "learn-sass",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node-sass -w scss/ -o  /css/ --recursive"
+    },
+    "author": "",
+    "license": "ISC"
+
+}
